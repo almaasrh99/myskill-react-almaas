@@ -1,0 +1,140 @@
+{
+    "main" :{
+        "name" : "Almaas Rozikin Herawan",
+        "image":"profile.png",
+        "description" : "Saya adalah seorang UI/UX Designer yang memiliki pengalaman dalam membuat desain website dan aplikasi mobile. Saya juga memiliki pengalaman dalam web programming.",
+        "project" :"https://github.com/almaasrh99",
+        "behance" : "https://www.behance.net/almaasrozikin",
+        "bio": "Saya merupakan lulus S1 Sistem Informasi di Univeristas Brawijaya Malang, dan telah memiliki beberapa pengalaman dalam bidang UI/UX Design.Namun saat ini saya mencoba mempelajari Frontend Development.",
+        "contactmessage":"Hello, here I am",
+        "email": "almaasrozikin@gmail.com",
+        "phone": "081-234-567-890",
+        "address":{
+            "street":"Jl Mawar C2-4",
+            "city":"Lumajang",
+            "state":"East Java",
+            "zip": "67352"
+        },
+        "resumedownload":"https://www.linkedin.com/in/almaas-rh/",
+        "social":[
+            {
+              "name": "facebook",
+              "url": "https://facebook.com/almaas-rh",
+              "className": "fa fa-facebook"
+            },
+            {
+              "name":"twitter",
+              "url":"http://twitter.com",
+              "className":"fa fa-twitter"
+            },
+            {
+              "name":"linkedin",
+              "url":"https://www.linkedin.com/in/almaas-rh/",
+              "className":"fa fa-linkedin"
+            },
+            {
+              "name":"instagram",
+              "url":"http://instagram.com/",
+              "className":"fa fa-instagram"
+            },
+            {
+              "name":"github",
+              "url":"https://github.com/almaasrh99",
+              "className":"fa fa-github"
+            }
+          ]
+      },
+      "resume": {
+          "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+          "education" : [
+              {
+                  "school": "Universitas Brawijaya",
+                  "degree": "Sarjana Ilmu Komuputer",
+                  "graduated": "Februari 2024",
+                  "description" : "Saya mengikuti Kampus Merdeka Batch 3"
+              },
+              {
+                  "school": "SMAN 1 Lumajang",
+                  "degree": "IPA",
+                  "graduated": "Mei 2018",
+                  "description": "Saya mengikuti Olimpiade Fisika"
+              }
+          ],
+          "work": [
+              {
+                  "company" : "PT. Cita Rasa Mendunia",
+                  "title" : "UI/UX Designer",
+                  "years": "Februari 2023 - Present",
+                  "description": "Membuat antarmuka pengguna untuk aplikasi mobile dan desktop"
+              }
+          ],
+          "skills": [
+              {
+                  "name" : "User Reseacrh",
+                  "level": "80%"
+              },
+              {
+                  "name": "Prototyping",
+                  "level": "90%"
+              },
+              {
+                  "name": "Figma",
+                  "level": "85%"
+              },
+              {
+                  "name": "Usability Testing",
+                  "level": "88%"
+              },
+              {
+                  "name": "Web Programming",
+                  "level": "80%"
+              },
+              {
+                  "name": "UI Design",
+                  "level": "90%"
+              }
+          ]
+      },
+      "portfolio":{
+          "projects": [
+              {
+                  "title": "Camera Store UX Study",
+                  "category": "My personal UX case study",
+                  "image": "1.png",
+                  "url": "https://docs.google.com/presentation/d/1mUZCtoAysTUYtrN7K8hix8XqkirJmGwefkXa2tw2VoA/edit"
+              },
+              {
+                  "title":"Keoppi Mobile App",
+                  "category":"A mobile application for coffee shop",
+                  "image":"2.png",
+                  "url":"https://www.canva.com/design/DAFMuERP0UA/1p7xw_Lz1NFAr3HrW0LBfA/view?utm_content=DAFMuERP0UA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+                },
+                {
+                  "title":"Cakep App",
+                  "category":"Mobile app for edutech tutoring students",
+                  "image":"3.png",
+                  "url":"https://docs.google.com/presentation/d/1mUZCtoAysTUYtrN7K8hix8XqkirJmGwefkXa2tw2VoA/edit"
+                },
+                {
+                  "title":"Absensi App",
+                  "category":"An mobile app for absence employees",
+                  "image":"4.png",
+                  "url":"https://www.behance.net/gallery/160819801/Aplikasi-Absensi-Karyawan-Senjafood"
+                },
+                {
+                  "title":"iPusnas Redesign App",
+                  "category":"Redesign mobile app for iPusnas with gamification",
+                  "image":"5.png",
+                  "url":"https://bit.ly/prototype_ipusnas"
+                },
+                {
+                  "title":"Hi Campus App",
+                  "category":"Mobile app consulting for students",
+                  "image":"6.png",
+                  "url":"https://www.behance.net/gallery/163545881/Binar-Academy-Final-Project-HI-Campus"
+                }
+               
+          ]
+      }
+
+    }
